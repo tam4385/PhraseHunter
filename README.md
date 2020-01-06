@@ -1,3 +1,6 @@
+
+Description: PHRASEHUNTER, a word guessing game complete with winning and losing modals. Created to demonstrate the use of objects in a program.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tam4385/PhraseHunter/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
